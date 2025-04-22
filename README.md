@@ -1,0 +1,1 @@
+# detection-of-thyroid-disorders-using-machine-learning-appoarch
